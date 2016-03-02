@@ -4,3 +4,9 @@
 [submodule "MakeFramework"]
 	path = MakeFramework
 	url = https://github.com/dboyliao/MakeFramework.git
+[submodule "ImportableModule"]
+	path = ImportableModule
+	url = https://github.com/AlexDenisov/ToySwiftModule.git
+[submodule "swift-weekly"]
+	path = swift-weekly
+	url = https://github.com/vandadnp/swift-weekly.git
