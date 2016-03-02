@@ -1,0 +1,3 @@
+[submodule "iOS-CameraCapture"]
+	path = iOS-CameraCapture
+	url = https://github.com/dboyliao/iOS-Capture_Camera_Example.git
