@@ -1,3 +1,6 @@
 [submodule "iOS-CameraCapture"]
 	path = iOS-CameraCapture
 	url = https://github.com/dboyliao/iOS-Capture_Camera_Example.git
+[submodule "MakeFramework"]
+	path = MakeFramework
+	url = https://github.com/dboyliao/MakeFramework.git
