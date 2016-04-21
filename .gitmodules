@@ -10,3 +10,6 @@
 [submodule "swift-weekly"]
 	path = swift-weekly
 	url = https://github.com/vandadnp/swift-weekly.git
+[submodule "tryAVFoundation"]
+	path = tryAVFoundation
+	url = https://github.com/dboyliao/tryAVFoundation.git
